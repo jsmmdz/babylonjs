@@ -14,6 +14,8 @@ Realidad Virtual (VR): Desarrollar experiencias de VR que puedan ser accesibles 
 
 Realidad Aumentada (AR): Proyectos interactivos que incorporan objetos 3D en el mundo real usando la cámara de un dispositivo.
 
-Alcance del demo
+Alcance del Demo
 
-Este demo utiliza Babylon.js para mostrar cómo se pueden crear escenas 3D interactivas. El objetivo es demostrar cómo integrar y manipular objetos 3D en una aplicación web simple.
+Una pequeña galería 3D donde el usuario puede explorar una sala con algunas "obras de arte" (pueden ser simplemente paneles con colores o imágenes) caminando por el entorno con una cámara controlada por el mouse y el teclado.
+
+
